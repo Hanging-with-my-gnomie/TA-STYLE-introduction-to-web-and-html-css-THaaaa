@@ -1,0 +1,29 @@
+ body{ 
+    background-color: rgb(13, 33, 212);
+    
+} 
+h2{
+    color: rgb(9, 245, 9);
+}
+
+p,h1,li{
+    color: white;
+}
+a{
+    color:red;
+    text-align: center;
+    margin-left: 150px;
+    
+}
+a::before{
+    background-color: black;
+    fill-opacity: 0.1;
+}
+img{
+    margin-left: 500px;
+    margin-top: 30px;
+}
+.photo{
+    margin-left: 500px;
+    margin-top: 30px;
+}
