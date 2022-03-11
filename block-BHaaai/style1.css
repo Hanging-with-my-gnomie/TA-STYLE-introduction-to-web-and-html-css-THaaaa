@@ -1,29 +1,26 @@
- body{ 
-    background-color: rgb(13, 33, 212);
-    
-} 
-h2{
-    color: rgb(9, 245, 9);
-}
 
-p,h1,li{
+body{
+    background-color: rgb(8, 8, 194);
     color: white;
 }
-a{
-    color:red;
+header{
     text-align: center;
-    margin-left: 150px;
+}
+main{
+    margin-left: 24px;
+    font-size: 18px;
+}
+.text{
+    color: rgb(12, 247, 12);
+}
+footer{
+    height: 75px;
+    text-align: center;
+    background-color: rgb(44, 44, 150);
+}
+a{
+    color: rgb(167, 4, 4);
+    padding: 24px;
+    margin-top: 10px;
     
-}
-a::before{
-    background-color: black;
-    fill-opacity: 0.1;
-}
-img{
-    margin-left: 500px;
-    margin-top: 30px;
-}
-.photo{
-    margin-left: 500px;
-    margin-top: 30px;
 }
