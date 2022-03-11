@@ -1,0 +1,26 @@
+
+body{
+    background-color: rgb(8, 8, 194);
+    color: white;
+}
+header{
+    text-align: center;
+}
+main{
+    margin-left: 24px;
+    font-size: 18px;
+}
+.text{
+    color: rgb(12, 247, 12);
+}
+footer{
+    height: 75px;
+    text-align: center;
+    background-color: rgb(44, 44, 150);
+}
+a{
+    color: rgb(167, 4, 4);
+    padding: 24px;
+    margin-top: 10px;
+    
+}
