@@ -1,0 +1,17 @@
+
+body{
+    background-color: rgb(37, 37, 238);
+    color: white;
+    margin-left: 25px;
+    
+}
+.head{
+    color: green;
+    font-size: 25px;
+}
+a{
+    color: red;
+    font-size: 18px;
+    padding: 24px;
+}
+
